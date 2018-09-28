@@ -1,2 +1,0 @@
-# MovieApp
-Created with CodeSandbox
